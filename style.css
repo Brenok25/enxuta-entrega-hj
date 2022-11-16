@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+#navigation{
+    /* position: fixed; */
+    width: 196vh;
+    background-color: #fff;
+    height: 10rem;
+}
+
+#img{
+    margin-left: 5rem;
+    margin-top: 10px;
+}
+
+nav ul{
+    font-size: 24px;
+    display: flex;
+    justify-content:flex-end;
+    position: relative ;
+    top: -5.5rem;
+    right: 11rem;
+}
+
+nav ul li:hover{
+    color:  #0635e0;
+}
+
+nav ul li{
+    list-style-type: none;
+    padding-left:30px;
+}
+
+#special{
+    color: #0030DA;
+    border: 5px solid #0030DA;
+    padding: 10px 50px 10px 50px;
+    text-align: center;
+    border-radius: 12px;
+    position: relative;
+    top: -15px;
+    left: 30px;
+}
+.page{
+    height: 900px;
+}
+.page h1{
+    font-size: 64px;
+}
+
+.page h4{
+    font-size: 36px;
+    padding: 10px;
+}
+
+.page p{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.text{
+    position: absolute;
+    width: 548px;
+    height: 411px;
+    left: 172px;
+    top: 300px;
+}
+
+#title h1{
+    font-size:75px;
+    padding: 10px;
+}
+
+#aside img{
+    margin: 40px 0 0 107.3vh;
+}
+
+#orcamento{ 
+    background-color:#0030DA  ;
+    color: #d2d2d2;
+    padding: 20px;
+    border: none;
+    width: 516px;
+    font-size: 24px;
+    margin: 30px 0 0 12px;
+    border-radius: 20px;
+}
+
+/* ---------------------------------------------- */
+
+.tela2{
+    background-color: #202020;
+    color: #d2d2d2;
+    padding: 200px;
+}
+
+.tela2 h4 {
+    text-align: center;
+}
+
+#backBlue{ 
+    margin: 20px 0 0 40%;
+    text-align: center;
+    background-color: #0030DA;
+    padding: 5px;
+    width: 300px;
+    height: 20px;
+}
+
+.itemTela2{
+    border: 1px solid red;
+    width: 30vh;
+    float: left;
+}
