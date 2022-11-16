@@ -94,12 +94,16 @@ nav ul li{
 .tela2{
     background-color: #202020;
     color: #d2d2d2;
-    padding: 200px;
+    padding: 130px;
 }
 
 .tela2 h4 {
     text-align: center;
 }
+
+/* #break{
+    
+} */
 
 #backBlue{ 
     margin: 20px 0 0 40%;
@@ -108,10 +112,36 @@ nav ul li{
     padding: 5px;
     width: 300px;
     height: 20px;
+    font-size: 20px;
 }
 
 .itemTela2{
-    border: 1px solid red;
-    width: 30vh;
-    float: left;
+    width: 35vh;
+    display: inline-block;
+    height: 600px;
+    margin: 50px 0 0 20px;
+}
+
+.itemTela2:first-child{
+    margin:  0 0 0 100px;
+}
+
+.item-dimi{
+    width: 35vh;
+    height: 600px;
+}
+
+.text_img{
+    margin-top: -8vh;
+}
+
+#break{
+    text-align: center;
+    align-items: center;
+    margin: 70px 500px;
+    font-size: 24px;
+}
+
+#line{
+    color: #0635e0;
 }
