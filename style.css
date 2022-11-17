@@ -190,7 +190,7 @@ nav ul li{
 }
 
 #buts{
-    margin: 10px 0 0 132vh;
+    margin: 10px 0 0 135vh;
 }
 
 #first_set{
@@ -211,7 +211,7 @@ nav ul li{
     border: none;
     font-size: 24px;
     font-weight: bold;
-    margin: 65px 0 0 50vh ;
+    margin: 65px 0 0 50.5vh ;
 }
 
 .tela4{
@@ -282,7 +282,7 @@ nav ul li{
 }
 
 #aside{
-    width: 140vh;
+    width: 120vh;
     padding: 50px;
 }
 
@@ -296,8 +296,10 @@ nav ul li{
     width: 60px;
     display: inline-block;
     padding: 10px;
+    margin: 30px 0 0 0;
+    
 }
 
 .itemTela5:first-child{
-    margin: 5px 0 0 170px;
+    margin: 5px 0 0 150px;
 }
