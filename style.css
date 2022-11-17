@@ -75,7 +75,7 @@ nav ul li{
 }
 
 #aside img{
-    margin: 40px 0 0 107.3vh;
+    margin: 40px 0 0 102.3vh;
 }
 
 #orcamento{ 
@@ -303,3 +303,27 @@ nav ul li{
 .itemTela5:first-child{
     margin: 5px 0 0 150px;
 }
+
+.tela5{
+    height:60vh;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 120px;
+}
+
+#footer_text{
+    display: inline-block;
+}
+
+.p_footer{
+    display: inline-block;
+    margin: 54px 50px 50px 50px;
+}
+
+.last{
+    margin-left: 500px;
+}
+
